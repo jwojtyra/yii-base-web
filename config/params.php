@@ -11,4 +11,7 @@ return [
     'db.password'   => '',
 
     'favicon.ico' => '@yii/app/../public/favicon.ico',
+    'i18n.locale' => new yii\i18n\Locale('pl-PL'),
+    'i18n.encoding' => '@yii/app/../public/favicon.ico',
+    'i18n.timezone' => 'Europe/Warsaw',
 ];
